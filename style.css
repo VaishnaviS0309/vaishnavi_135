@@ -1,0 +1,37 @@
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: white;
+    background-color: blueviolet;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+}
+p{
+    color: white;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+h1{
+    background-color: blueviolet;
+    color:white;
+}
+
+#start_button_id{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 10px;
+}
